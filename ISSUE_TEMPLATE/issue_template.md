@@ -1,3 +1,10 @@
+---
+name: "이슈 구현"
+about: "새로운 기능을 제안하거나 페이지를 구현할 때 사용합니다."
+title: "Feat: "
+labels: "enhancement"
+---
+
 ## Description
 
 <br>
